@@ -31,4 +31,5 @@ A program that counts and displays the frequency of each character in a given st
 
 (https://drive.google.com/file/d/1_Dh7KxuK4jiwE5lxrQhDipmQ86434avx/view?usp=sharing)
 
-* Developed by Aditya Yadav
+
+### Developed by Aditya Yadav
